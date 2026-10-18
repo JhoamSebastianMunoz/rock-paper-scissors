@@ -25,7 +25,7 @@ Juego web clásico de **piedra, papel o tijeras**: tú contra la máquina, al me
 No requiere instalación ni proceso de build. Solo abre `index.html` en tu navegador:
 
 ```bash
-git clone https://github.com/JhoamSebastianMunoz/rock-paper-scissors-react.git
+git clone https://github.com/JhoamSebastianMunoz/rock-paper-scissors.git
 ```
 
 Luego abre el archivo `index.html` con doble clic. Las únicas dependencias se cargan por CDN:
